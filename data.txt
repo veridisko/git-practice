@@ -1,0 +1,3 @@
+Name: Detlef
+Age: 29
+Favorite Color: Blue
